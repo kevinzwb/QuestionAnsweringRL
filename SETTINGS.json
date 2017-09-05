@@ -1,0 +1,12 @@
+{
+	"BASE_DIR": "/Users/Omega/Project/QuestionAnsweringRL", 
+	
+	"INPUT_DIR"     : "input",
+	"CORPUS_DIR"    : "corpus",
+	"SUBMISSION_DIR": "submission",
+	
+	"TRAINING_FILE"  : "training_set.tsv",
+	"VALIDATION_FILE": "validation_set.tsv",
+	"TESTING_FILE"   : "test_set.tsv"
+}
+ 
